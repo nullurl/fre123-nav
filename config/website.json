@@ -1,13 +1,13 @@
 {
 	"base": {
-		"app_name": "iiso|i搜",
+		"app_name": "i搜导航",
 		"web_host": "https://www.iiso.site",
 		"logo": "https://s3.bmp.ovh/imgs/2024/04/30/e8281a0c63e9854a.png"
 	},
 	"seo": {
-		"title": "iiso|i搜-爱搜导航，全网聚合导航搜索引擎",
-		"description": "iiso|i搜-爱搜导航，全网聚合导航搜索引擎",
-		"keywords": "i搜-爱搜导航，全网聚合导航搜索引擎，网盘资源搜索神器，支持百度网盘、阿里云盘、夸克云盘等网盘资源的全文检索，短剧搜索，影视搜索",
+		"title": "iiso|i搜-爱搜导航,全网聚合导航搜索引擎",
+		"description": "iiso|i搜-爱搜导航,全网聚合导航搜索引擎",
+		"keywords": "i搜导航,爱搜导航,全网聚合导航搜索引擎,网盘资源搜索神器,支持百度网盘,阿里云盘,夸克云盘等网盘资源的全文检索,短剧搜索,影视搜索",
 		"icon": "https://s3.bmp.ovh/imgs/2024/04/30/e8281a0c63e9854a.png"
 	},
 	"header": {
