@@ -1,6 +1,6 @@
 {
 	"base": {
-		"app_name": "iiso",
+		"app_name": "iiso|i搜",
 		"web_host": "https://www.iiso.site",
 		"logo": "https://s3.bmp.ovh/imgs/2024/04/30/e8281a0c63e9854a.png"
 	},
@@ -77,22 +77,22 @@
 				{
 					"icon_class": "fas fa-comment-dots",
 					"icon_size": 20,
-					"url": "https://github.com/fre123-com"
+					"url": ""
 				},
 				{
 					"icon_class": "fab fa-telegram-plane",
 					"icon_size": 20,
-					"url": "https://t.me/howie_weekly"
+					"url": ""
 				},
 				{
 					"icon_class": "fas fa-blog",
 					"icon_size": 20,
-					"url": "https://www.fre123.com/weekly"
+					"url": ""
 				},
 				{
 					"icon_class": "fas fa-qrcode",
 					"icon_size": 20,
-					"url": "https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg"
+					"url": ""
 				}
 			]
 		}
